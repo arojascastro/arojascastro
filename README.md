@@ -15,7 +15,7 @@ Over the past decade, I have contributed to international research projects deve
 ## Selected projects
 
 - **[HallerNet](https://hallernet.org/):** work on digital scholarly editions and research data.
-- **[Proyecto Humboldt Digital](https://dossierdigital.ohc.cu/exist/apps/ProHD/start.html):** contributions to 34 TEI-encoded digital editions.
+- **[Soledades](http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical):** text edition with apparatus.
 - **[CalDraCor](https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Tracing_Regularities_in_Calderon/):** curation and analysis of a corpus of more than 200 Spanish plays.
 - **[DraCorOS](https://dracor.org/):** research data workflows, training resources, documentation and Open Science practices at Freie Universität Berlin.
 
