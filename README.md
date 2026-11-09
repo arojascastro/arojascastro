@@ -14,10 +14,10 @@ Over the past decade, I have contributed to international research projects deve
 
 ## Selected projects
 
-- **[HallerNet](https://hallernet.org/):** work on digital scholarly editions and research data.
-- **[Soledades](http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical):** text edition with apparatus.
+- **[HallerNet](https://hallernet.org/):** work on digital scholarly editions and bibliographic entries.
+- **[Soledades](http://soledades.uni-koeln.de/#/critical?d=doc_1&e=critical):** digital edition with apparatus.
 - **[CalDraCor](https://dfg-spp-cls.github.io/projects_en/2020/01/24/TP-Tracing_Regularities_in_Calderon/):** curation and analysis of a corpus of more than 200 Spanish plays.
-- **[DraCorOS](https://dracor-org.github.io/dracor-textbook/index.html):** research data workflows, training resources, documentation and Open Science practices at Freie Universität Berlin.
+- **[DraCorOS](https://dracor-org.github.io/dracor-textbook/index.html):** design, coordination and development of training resources and documentation.
 
 I have held research positions at the **Cologne Center for eHumanities**, the **Berlin-Brandenburg Academy of Sciences and Humanities** and the **University of Tübingen**.
 
